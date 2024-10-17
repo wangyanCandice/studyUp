@@ -1,1 +1,9 @@
 这是我心血来潮新增的文件
+
+add a string text
+
+add
+
+remove
+
+clear
